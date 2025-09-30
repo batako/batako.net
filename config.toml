@@ -9,6 +9,7 @@ disableKinds = ["taxonomy", "term"]
   headline = "現実を見ろ！俺たちには仮想現実（バーチャル）しかないんだぞ！"
   image = "author.png"
   links = [
+    { link = { href = "https://log.batako.net", text = "備忘録" } },
     { link = { href = "https://github.com/batako", text = "GitHub", icon = "github" } },
     { instagram = "https://www.instagram.com/batakox/" },
     { x = "https://x.com/batakox" },
