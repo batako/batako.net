@@ -13,6 +13,7 @@ disableKinds = ["taxonomy", "term"]
     { link = { href = "https://github.com/batako", text = "GitHub", icon = "github" } },
     { instagram = "https://www.instagram.com/batakox/" },
     { x = "https://x.com/batakox" },
+    { amazon = "https://www.amazon.jp/hz/wishlist/ls/2145XNMDJ0AYK?ref_=wl_share" },
   ]
 
 [markup.highlight]
