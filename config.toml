@@ -5,6 +5,12 @@ googleAnalytics = "G-XWNFT9CBV9"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
+[author]
+  name = "Batako Studio"
+
+[params]
+  footerName = "Batako Studio"
+
 [params.author]
   name = "Batako"
   headline = "現実を見ろ！俺たちには仮想現実（バーチャル）しかないんだぞ！"
